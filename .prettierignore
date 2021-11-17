@@ -1,0 +1,6 @@
+docs-build/
+*.js
+*.min.js
+*.html
+*.css
+*.scss
